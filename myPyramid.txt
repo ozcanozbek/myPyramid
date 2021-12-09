@@ -1,4 +1,4 @@
-//O2can O2bek (Özcan Özbek)
+//O2can O2bek (Özcan Özbek) 
 //@version=5
 indicator(title='myPyramid - V1', shorttitle='myPyramid - V1', overlay=true, timeframe="")
 src = input(close, title='Source')
